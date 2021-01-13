@@ -6,8 +6,8 @@ For Zabbix version: 3.x and higher
 
 This template was tested on:
 
-MySQL version 5.6, 5.7
-Percona version 5.6, 5.7
+- MySQL version 5.6, 5.7
+- Percona version 5.6, 5.7
 
 Template has a discovery rule (Table Discovery) which include,
 - an item prototype:
